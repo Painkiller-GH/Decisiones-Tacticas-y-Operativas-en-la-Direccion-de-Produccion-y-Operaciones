@@ -1,6 +1,6 @@
 # Decisiones-Tácticas-y-Operativas-en-la-Dirección-de-Producción-y-Operaciones
 
-Este material presenta un análisis del sistema de producción y operaciones en la empresa, a través del estudio de las decisiones tácticas y operativas de producción. Incluye las presentaciones (apuntes) de la asignatura "Decisiones Tácticas y Operativas en la Dirección de Producción y Operaciones", impartida en el Grado en Ingeniería en Organización Industrial de la Universidad Rey Juan Carlos.
+Este material presenta un análisis del sistema de producción y operaciones en la empresa, a través del estudio de las decisiones tácticas y operativas de producción. Incluye las presentaciones (apuntes) de la asignatura "Decisiones Tácticas y Operativas en la Dirección de Producción y Operaciones".
 
 Su objetivo es permitir a los estudiantes profundizar en los conceptos clave y estrategias aplicadas en la gestión de producción y operaciones, facilitando así su comprensión y aplicación práctica en el ámbito profesional. Se recomienda su uso en conjunto con la bibliografía incluida en los archivos adjuntos.
 
