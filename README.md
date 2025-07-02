@@ -9,6 +9,7 @@ Si necesita más ejercicios, las plantillas y otros materiales de apoyo, envíem
 
 ![image](https://github.com/user-attachments/assets/4b0c46ee-27a9-4894-89a6-c8c5c975e7ee)
 
+[Abrir Carpeta con las Presentaciones (archivos PDF y PowerPoint)](https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones/tree/main/Presentaciones)
 
 **BLOQUE I.  INTRODUCCIÓN**
 
