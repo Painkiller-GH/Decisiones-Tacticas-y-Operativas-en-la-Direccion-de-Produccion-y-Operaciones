@@ -4,7 +4,9 @@ Este material presenta un análisis integral del subsistema de producción y ope
 
 Su propósito es profundizar en los conceptos clave y las estrategias de gestión del área, facilitando su comprensión y posterior aplicación práctica en el entorno profesional. Para un máximo aprovechamiento, se recomienda complementar este estudio con la bibliografía incluida en cada archivo descargable.
 
-![image](https://github.com/user-attachments/assets/4b0c46ee-27a9-4894-89a6-c8c5c975e7ee)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b0c46ee-27a9-4894-89a6-c8c5c975e7ee" alt="image" />
+</p>
 
 [Abrir Carpeta con las Presentaciones (archivos PDF y PowerPoint)](https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones/tree/main/Presentaciones)
 
